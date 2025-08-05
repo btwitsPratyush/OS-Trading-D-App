@@ -467,7 +467,7 @@ Special thanks to the amazing communities and projects that made this possible:
 
 ---
 
-## 🏆 Project Achievements
+## 🏆 Project Achievements:-
 
 This dApp demonstrates comprehensive implementation of advanced concepts:
 
