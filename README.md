@@ -435,9 +435,9 @@ SOFTWARE.
 **Pratyush** - *Creator & Lead Developer*
 
 - 🐙 **GitHub**: [@btwitsPratyush](https://github.com/btwitsPratyush)
-- 📧 **Email**: pratyush.dev@example.com
-- 💼 **LinkedIn**: [Connect with Pratyush](https://linkedin.com/in/pratyush-dev)
-- 🐦 **Twitter**: [@pratyush_dev](https://twitter.com/pratyush_dev)
+- 📧 **Email**: pratyushk537@gmail.com
+- 💼 **LinkedIn**: [Connect with Pratyush](https://www.linkedin.com/in/pratyush-linkdin)
+- 🐦 **Twitter**: [@pratyush_dev](https://X.com/btwitsPratyush)
 
 ### Get in Touch
 - 💬 **Questions?** Open an issue or reach out directly
