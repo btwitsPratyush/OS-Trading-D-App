@@ -10,7 +10,7 @@ A cutting-edge decentralized application showcasing the power of AI-driven tradi
 
 ![JuliaOS Trading dApp](https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=1200&h=600&fit=crop)
 
-## 🌟 Project Overview
+## 🌟 Project Overview:-
 
 The JuliaOS AI Trading Bot dApp represents the next evolution in decentralized finance, where artificial intelligence meets blockchain technology. This sophisticated platform enables users to deploy, manage, and coordinate multiple AI agents that can analyze markets, execute trades, and optimize strategies across various blockchain networks simultaneously.
 
